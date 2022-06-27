@@ -1,0 +1,1 @@
+參考 [ASP.NET Core 整合測試](https://docs.microsoft.com/zh-tw/aspnet/core/test/integration-tests?view=aspnetcore-6.0#introduction-to-integration-tests)
